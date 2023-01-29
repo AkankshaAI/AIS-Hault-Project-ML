@@ -1,0 +1,96 @@
+﻿Attribute table
+The table below describes the semantics of each field in the EEZ dataset attribute table.
+Attribute name
+	Description
+	MRGID
+MRGID_EEZ
+	Marine Regions Geographic Identifier of the polygon feature.
+Unique, persistent and resolvable identifier used in the Marine Regions gazetteer.
+	GEONAME
+	Name of the polygon feature.
+	POL_TYPE
+	Type of polygon area.
+Possible values: ‘200NM’, ‘Joint regime’, ‘Overlapping claim’.
+	TERRITORY1
+	Specific land area which directly relates to the polygon.
+For example: for EEZs bordering a country, the territory is the country. For EEZs surrounding an island, the territory is the island itself (e.g. Portuguese Exclusive Economic Zone (Madeira)).
+	MRGID_TER1
+	MRGID for the territory
+	ISO_TER1
+	ISO3 code for the territory
+	UN_TER1
+	UN code (M49 Country code) for the territory
+	SOVEREIGN1
+	State that has jurisdiction over the territory.
+For example: for Madeira this is Portugal.
+	MRGID_SOV1
+	MRGID for the sovereign
+	ISO_SOV1
+	ISO3 code for the sovereign
+	UN_SOV1
+	UN code (M49 Country code) for the sovereign
+	TERRITORY2
+SOVEREIGN2
+
+
+TERRITORY3
+SOVEREIGN3
+	For joint regimes and overlapping claims, multiple states can claim a territory (and associated EEZ) or sea area. In this case, the different territories and their sovereign state are listed in the attribute table.
+
+
+For disputed islands/rocks, the territories refer to the islands/rocks/land that are claimed, so in this case the attribute values for TERRITORY1 and TERRITORY2 (and TERRITORY3) will be identical.
+For example (Overlapping claim Falkland / Malvinas Islands: UK / Argentina):
+
+
+TERRITORY1
+	TERRITORY2
+	SOVEREIGN1
+	SOVEREIGN2
+	Falkland / Malvinas Islands
+	Falkland / Malvinas Islands
+	United Kingdom
+	Argentina
+	
+
+
+
+For sea areas, the territories are the territories that claim the EEZ.
+For example (Overlapping claim: Puerto Rico / Dominican Republic):
+
+
+TERRITORY1
+	TERRITORY2
+	SOVEREIGN1
+	SOVEREIGN2
+	Puerto Rico
+	Dominican Republic
+	United States
+	Dominican Republic
+	
+
+
+
+Exception: Overlapping claim South China Sea, as there are more than three states claiming this area, not all claiming parties are included in the attribute table.
+	MRGID_TER2
+MRGID_TER3
+MRGID_SOV2
+MRGID_SOV3
+
+
+ISO_TER2
+ISO_TER3
+ISO_SOV2
+ISO_SOV3
+
+
+UN_TER2
+UN_TER3
+UN_SOV2
+UN_SOV3
+	Similar to MRGID_...1, ISO_...1 and UN_...1.
+	AREA_KM2
+	Area of polygon in square kilometers, calculated in PostGIS by casting the geometry to geography
+	X_1
+	Centroid longitude of polygon, calculated in PostGIS (EPSG:4326)
+	Y_1
+	Centroid latitude of polygon, calculated in PostGIS (EPSG:4326)
