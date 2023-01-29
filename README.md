@@ -1,10 +1,10 @@
-# AIS- HALT
+#                                                                            AIS- HALT
 In this project we will collaborate with [Global Fishing Watch](http://www.globalfishingwatch.org/) to detect fishing activity in the ocean using data from satellite Automatic Identification System [AIS](https://en.wikipedia.org/wiki/Automatic_identification_system) collected from different vessels around the world. The AIS data contains the latitude, longitude, speed and course of the vessels at different times.  
 
 
-## Motivation
+## Problem Statement
 
-Overfishing and illegal fishing are becoming big problems around the world. For example, there are many records of intensive and often illegal fishing of West Africa’s waters by Asian and European fleets that reduce the regular catch for the local populations, increasing their poverty levels. “Being able to see which vessels are fishing where would be a tremendous help in reducing illegal fishing,” says Josephus Mamie, head of Sierra Leone’s Fisheries Research Unit. [1]
+AIS is a useful system that helps to avoid ship collisions and allows managers of fleet management, especially for emergencies e.g. adverse sea conditions. Vessels keep the AIS beacons on in order to stay safe. However, sometimes the vessels do not transmit. The reasons for this may be unknown. As much as the AIS activity data are important, the inactivity data can also be put to use to understand the possible reasons behind such behavior and if needed, respond in the appropriate manner. The interactive tool should be able to categorize the AIS inactivity episodes for a single vessel or multiple vessels in a selected region. Further, the data may be classified based on the ship behavior prior to the inactivity, as well as based on various inactivity parameters such as location, time and duration of inactivity.
 
 Global Fishing Watch (GFW) is an organization that analyzes data from the Automatic Identification System (AIS), which is collected by satellites and terrestrial receivers, to identify apparent fishing behavior based on the movement of vessels over time.
 
