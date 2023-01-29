@@ -25,6 +25,10 @@ Vessels fitted with AIS transceivers can be tracked by AIS base stations located
 
 20M of data points are produced per day this way. In this project we will have data that has been already labeled by different experts and using crowd sourcing methods. 
 
+## Results
+
+<img src="https://github.com/GinaE/Detecting-fishing-activity/blob/master/images/Satellite_AIS.png" width="300"> 
+
 The data set was kindly made available by David Kroodsma and Timothy Hochberg from [SkyTruth](http://skytruth.org/).
 
 
