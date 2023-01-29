@@ -10,7 +10,7 @@ AIS is a useful system that helps to avoid ship collisions and allows managers o
 ## Existing solutions in process
 Global Fishing Watch (GFW) is an organization that analyzes data from the Automatic Identification System (AIS), which is collected by satellites and terrestrial receivers, to identify apparent fishing behavior based on the movement of vessels over time.
 
-<img src="https://github.com/GinaE/Detecting-fishing-activity/blob/master/images/solu.png" width="300"> 
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/solu.png" width="300"> 
 
 
 ## Data
