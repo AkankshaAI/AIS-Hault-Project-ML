@@ -13,7 +13,7 @@ Global Fishing Watch (GFW) is an organization that analyzes data from the Automa
 <img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/solu.png" width="300"> 
 
 
-## Data
+## Our Solution
 
 AIS system was put in place to guarantee the safety of vessels, it provides collision avoidance and allow maritime authorities to track and monitor vessel movements. Each vessel periodically reports information including the vessel’s identity, type, position, course, speed, navigational status and other safety-related information.
 
