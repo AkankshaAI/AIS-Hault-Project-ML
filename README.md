@@ -27,7 +27,7 @@ Vessels fitted with AIS transceivers can be tracked by AIS base stations located
 
 ## Results
 
-< align="center" img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/results.png" width="600"  > 
+< p align="center">< img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/results.png" width="600"  > </p>
 
 The data set was kindly made available by David Kroodsma and Timothy Hochberg from [SkyTruth](http://skytruth.org/).
 
