@@ -2,7 +2,7 @@
 
 # ⛴ Classification of Vessel Geartype
 
-Machine learning class final project
+
 
 ![Fig 1. Map of Apparent Fishing Effort “Copyright \[2022\], Global Fishing Watch, Inc.www.globalfishingwatch.org.”](<images/GFW-fishingmap-6\_10\_2022, 10\_52\_12 PM.png>)
 
