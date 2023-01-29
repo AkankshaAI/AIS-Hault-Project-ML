@@ -88,4 +88,6 @@ When there is good coverage the time intervals still vary from 2 seconds to 2 mi
 
 ## Our Solution Glimplses from Presentation
 
-<img src="https://github.com/GinaE/Detecting-fishing-activity/blob/master/images/ss.png" width="300"> 
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss.png" width="300"> 
+
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss1.png" width="300"> 
