@@ -86,7 +86,7 @@ When there is good coverage the time intervals still vary from 2 seconds to 2 mi
 		Produces a graph of the F1-scores for the different models and stores it on ../results
 
 
-## Our Solution Glimplses from Presentation
+## Our Solution Glimpses from Presentation
 
 <img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss.png" width="600" align="centre" > 
 
