@@ -10,7 +10,7 @@ AIS is a useful system that helps to avoid ship collisions and allows managers o
 ## Existing solutions in process
 Global Fishing Watch (GFW) is an organization that analyzes data from the Automatic Identification System (AIS), which is collected by satellites and terrestrial receivers, to identify apparent fishing behavior based on the movement of vessels over time.
 
-<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/solu.png" width="300"> 
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/solu.png" width="600" align="centre" > 
 
 
 ## Our Solution
@@ -27,7 +27,7 @@ Vessels fitted with AIS transceivers can be tracked by AIS base stations located
 
 ## Results
 
-<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/results.png" width="300"> 
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/results.png" width="600" align="centre" > 
 
 The data set was kindly made available by David Kroodsma and Timothy Hochberg from [SkyTruth](http://skytruth.org/).
 
@@ -88,6 +88,6 @@ When there is good coverage the time intervals still vary from 2 seconds to 2 mi
 
 ## Our Solution Glimplses from Presentation
 
-<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss.png" width="300"> 
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss.png" width="600" align="centre" > 
 
-<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss1.png" width="300"> 
+<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/ss1.png" width="600" align="centre" > 
