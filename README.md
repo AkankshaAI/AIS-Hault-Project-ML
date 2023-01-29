@@ -1,5 +1,5 @@
 #                                                                            AIS- HALT
-<img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/solu.png" width="300" align="centre" > 
+<p align="centre"><img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/logosus.jpg" width="300" > </p>
 In this project we will collaborate with [Global Fishing Watch](http://www.globalfishingwatch.org/) to detect fishing activity in the ocean using data from satellite Automatic Identification System [AIS](https://en.wikipedia.org/wiki/Automatic_identification_system) collected from different vessels around the world. The AIS data contains the latitude, longitude, speed and course of the vessels at different times.  
 
 
