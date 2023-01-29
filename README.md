@@ -6,7 +6,11 @@ In this project we will collaborate with [Global Fishing Watch](http://www.globa
 
 AIS is a useful system that helps to avoid ship collisions and allows managers of fleet management, especially for emergencies e.g. adverse sea conditions. Vessels keep the AIS beacons on in order to stay safe. However, sometimes the vessels do not transmit. The reasons for this may be unknown. As much as the AIS activity data are important, the inactivity data can also be put to use to understand the possible reasons behind such behavior and if needed, respond in the appropriate manner. The interactive tool should be able to categorize the AIS inactivity episodes for a single vessel or multiple vessels in a selected region. Further, the data may be classified based on the ship behavior prior to the inactivity, as well as based on various inactivity parameters such as location, time and duration of inactivity.
 
+
+## Existing solutions in process
 Global Fishing Watch (GFW) is an organization that analyzes data from the Automatic Identification System (AIS), which is collected by satellites and terrestrial receivers, to identify apparent fishing behavior based on the movement of vessels over time.
+
+<img src="https://github.com/GinaE/Detecting-fishing-activity/blob/master/images/Satellite_AIS.png" width="300"> 
 
 
 ## Data
