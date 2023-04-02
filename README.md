@@ -1,5 +1,5 @@
 #                                                                            AIS- HALT
-<p align="right"><img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/logosus.jpg" width="300" > </p>
+<p align="centre"><img src="https://github.com/AkankshaAI/Sustainers-Hackerflow-2.0/blob/main/images/logosus.jpg" width="300" > </p>
 In this project we will collaborate with [Global Fishing Watch](http://www.globalfishingwatch.org/) to detect fishing activity in the ocean using data from satellite Automatic Identification System [AIS](https://en.wikipedia.org/wiki/Automatic_identification_system) collected from different vessels around the world. The AIS data contains the latitude, longitude, speed and course of the vessels at different times.  
 The interactive tool should be able to categorize the AIS inactivity episodes for a single vessel or multiple vessels in a selected region. Further, the data may be classified based on the ship behavior prior to the inactivity, as well as based on various inactivity parameters such as location, time and duration of inactivity.
 
